@@ -21,52 +21,42 @@ export default {
                 {
                     content: 'CHARACTERS',
                     url: '#',
-                    active: false
                 },
                 {
                     content: 'COMICS',
                     url: '#',
-                    active: true
                 },
                 {
                     content: 'MOVIES',
                     url: '#',
-                    active: false
                 },
                 {
                     content: 'TV',
                     url: '#',
-                    active: false
                 },
                 {
                     content: 'GAMES',
                     url: '#',
-                    active: false
                 },
                 {
                     content: 'COLLECT',
                     url: '#',
-                    active: false
                 },
                 {
                     content: 'VIEDO',
                     url: '#',
-                    active: false
                 },
                 {
                     content: 'FANS',
                     url: '#',
-                    active: false
                 },
                 {
                     content: 'NEWS',
                     url: '#',
-                    active: false
                 },
                 {
                     content: 'SHOP',
                     url: '#',
-                    active: false
                 }
             ],
         }
@@ -96,7 +86,7 @@ export default {
                 margin: 0 20px;
 
                 a{
-                    padding: 55px 0;
+                    padding: 56px 0;
                     text-decoration: none;
                     color: gray;
                     font-weight: bold; 
