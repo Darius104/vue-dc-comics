@@ -5,18 +5,24 @@
       <!-- da fare -->
     </main>
     <FooterUp />
+    <FooterMiddle />
+    <FooterBottom />
   </div>
 </template>
 
 <script>
 import Header from "./components/Header.vue";
 import FooterUp from "./components/FooterUp.vue";
+import FooterMiddle from "./components/FooterMiddle.vue";
+import FooterBottom from "./components/FooterBottom.vue";
 
 export default {
   name: "App",
   components: {
     Header,
-    FooterUp
+    FooterUp,
+    FooterMiddle,
+    FooterBottom
   },
 };
 </script>
